@@ -30,7 +30,7 @@ int main(){
 	
 	// Logical OPerator
 	
-	// There are a  4 members including 2 boys and 2 girls in a friend circle. They all going out for 2 weeks.
+	// There are   4 members including 2 boys and 2 girls in a friend circle. They all going out for 2 weeks.
 	// Values in Rupees
 	
 	int Rohan = 4000;

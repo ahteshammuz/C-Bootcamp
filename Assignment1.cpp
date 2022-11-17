@@ -45,9 +45,9 @@ int main(){
 	int sum3= Rohan +jannat;
 	int sum4= Yusuf + Emma;
 	
-	bool success = ( sum1> 5000) && (sum2> 5000) && ( sum3> 5000) && (sum4> 5000);
+	bool success = ( sum1>= 5000) && (sum2>= 5000) && ( sum3>= 5000) && (sum4>= 5000);
 	cout<< success;
 		
-	bool success = ( sum1> 5000) || (sum2> 5000) || ( sum3> 5000) || (sum4> 5000);
+	bool success = ( sum1>= 5000) || (sum2>= 5000) || ( sum3>= 5000) || (sum4>= 5000);
 	cout<< success;
 }

@@ -28,7 +28,7 @@ int main(){
 	money /= 5;
   cout<< money << endl;
 	
-	// Logical OPerator
+	// Logical Operator
 	
 	// There are   4 members including 2 boys and 2 girls in a friend circle. They all going out for 2 weeks.
 	// Values in Rupees
@@ -38,7 +38,7 @@ int main(){
 	int Emma = 2000;
 	int jannat= 1500;
 	
-	//Contributing of momey
+	//Contribution of money
 	
 	int sum1= Rohan + Emma;
 	int sum2= Yusuf + jannat;

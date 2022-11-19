@@ -48,6 +48,6 @@ int main(){
 	bool success = ( sum1>= 5000) && (sum2>= 5000) && ( sum3>= 5000) && (sum4>= 5000);
 	cout<< success;
 		
-	bool success = ( sum1>= 5000) || (sum2>= 5000) || ( sum3>= 5000) || (sum4>= 5000);
-	cout<< success;
+	bool success1 = ( sum1>= 5000) || (sum2>= 5000) || ( sum3>= 5000) || (sum4>= 5000);
+	cout<< success1;
 }

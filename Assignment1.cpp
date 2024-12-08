@@ -33,14 +33,14 @@ int main(){
 	// There are   4 members including 2 boys and 2 girls in a friend circle. They all going out for 2 weeks.
 	// Values in Rupees
 	
-	int Rohan = 4000;
+	int Rhan = 4000;
 	int Yusuf = 4500;
 	int Emma = 2000;
 	int jannat= 1500;
 	
 	//Contribution of money
 	
-	int sum1= Rohan + Emma;
+	int sum1= Rhan + Emma;
 	int sum2= Yusuf + jannat;
 	int sum3= Rohan +jannat;
 	int sum4= Yusuf + Emma;

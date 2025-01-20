@@ -42,7 +42,7 @@ int main(){
 	
 	int sum1= Rhan + Emma;
 	int sum2= Yusuf + jannat;
-	int sum3= Rohan +jannat;
+	int sum3= Rhan +jannat;
 	int sum4= Yusuf + Emma;
 	
 	bool success = ( sum1>= 5000) && (sum2>= 5000) && ( sum3>= 5000) && (sum4>= 5000);
